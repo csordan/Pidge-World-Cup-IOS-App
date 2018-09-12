@@ -1,0 +1,80 @@
+[
+ {
+ "team": "Croatia",
+ "code": "CRO",
+ "description": "Modric tho."
+ }
+ ,
+ {
+ "team": "England",
+ "code": "ENG",
+ "description": "so sad"
+ }
+ ,
+ {
+ "team": "Spain",
+ "code": "ESP",
+ "description": "choke"
+ }
+ ,
+ {
+ "team": "Brazil",
+ "code": "BRA"
+ }
+ ,
+ {
+ "team": "Uruguay",
+ "code": "URU"
+ }
+ ,
+ {
+ "team": "Argentina",
+ "code": "ARG"
+ }
+ ,
+ {
+ "team": "Mexico",
+ "code": "MEX"
+ }
+ ,
+ {
+ "team": "Belgium",
+ "code": "BEL"
+ }
+ ,
+ {
+ "team": "Japan",
+ "code": "JPN"
+ }
+ ,
+ {
+ "team": "Russia",
+ "code": "RUS"
+ }
+ ,
+ {
+ "team": "Denmark",
+ "code": "DEN"
+ }
+ ,
+ {
+ "team": "Sweden",
+ "code": "SWE"
+ }
+ ,
+ {
+ "team": "Switzerland",
+ "code": "SUI"
+ }
+ ,
+  {
+    "team": "France ",
+ "code": "FRA",
+    "team_picture": "team_france.jpeg"
+  },
+  {
+    "team": "Portugal ",
+    "team_picture": "team_portugal.jpeg",
+    "code": "POR"
+  }
+]
